@@ -1,7 +1,7 @@
 ﻿{
-	"app_id": "your_app_id",
-	"app_secret": "your_app_secret",
-	"product_key": [],
+	"app_id": "6559a439639848e9b9c7833e10bca7fa",
+	"app_secret": "d740cd66576e4102b02b6c582f5d040c",
+	"product_key": ["a7aa2782faab413da82166a4fa668b89"],
 	"openAPI_URL": "",
 	"site_URL": "",
 	"push_URL": "",
